@@ -19,7 +19,7 @@ Features:
 - Simple and accessible design
 
 
-Folder: `/` (or update if your website is in a subfolder)
+Folder: `/Porfolio/` 
 
 ---
 
@@ -34,7 +34,7 @@ Pages:
 - Gallery (`gallery_page.png`)
 - Contact Us (`contact_us_page.png`)
 
-Folder: `/figma-mockups/`
+Folder: `/mockups/`
 
 ---
 
